@@ -1,0 +1,11 @@
+
+#OPERADORES TERNARIOS 
+
+#operadores ternarios 
+
+idade = 12
+
+if idade >= 16:
+  print('voto permitido')
+else:
+  print('voto não permitido')
